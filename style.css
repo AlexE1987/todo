@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(78, 12, 63);
+    color: blanchedalmond;
+}
+button {
+color: blanchedalmond;
+background-color: blueviolet;
+}
+
+button:hover {
+    background-color: black;
+    color: #fff;
+}
+
+ul {
+    list-style: none;
+    text-align: start;
+    padding-left: 75px;
+}
+
+
+
+.wrapper {
+    padding-top: 200px; 
+    text-align: center;
+}
+
+.container {
+    background-color: rgb(214, 5, 5);
+    margin: auto;
+    width: 400px;
+    border: black solid 1px;
+    
+    box-shadow: black;
+} 
+
+.header {
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.container_buttons{
+    padding-bottom: 10px;
+}
