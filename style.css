@@ -4,16 +4,16 @@
 }
 
 body {
-    background-color: rgb(78, 12, 63);
+    background-color: rgb(218, 214, 218);
     color: blanchedalmond;
 }
 button {
 color: blanchedalmond;
-background-color: blueviolet;
+background-color: rgb(143, 129, 155);
 }
 
 button:hover {
-    background-color: black;
+    background-color: rgb(81, 42, 126);
     color: #fff;
 }
 
@@ -23,15 +23,13 @@ ul {
     padding-left: 75px;
 }
 
-
-
 .wrapper {
     padding-top: 200px; 
     text-align: center;
 }
 
 .container {
-    background-color: rgb(214, 5, 5);
+    background-color: rgb(69, 154, 211);
     margin: auto;
     width: 400px;
     border: black solid 1px;
